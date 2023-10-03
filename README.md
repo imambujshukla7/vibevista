@@ -41,7 +41,7 @@ VibeVista is a full-stack social media platform that allows users to connect, sh
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/vibevista.git
+   git clone https://github.com/imambujshukla7/vibevista.git
    ```
 
 2. Navigate to the project directory:
