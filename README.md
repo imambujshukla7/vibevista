@@ -70,7 +70,7 @@ VibeVista is a full-stack social media platform that allows users to connect, sh
 
 ## Usage
 
-- Open your browser and go to `http://localhost:3001` to access the VibeVista platform.
+- Open your browser and go to localhost to access the VibeVista platform.
 - Sign up for a new account or log in if you already have one.
 - Explore the platform, create posts, customize your profile, and connect with other users.
 
